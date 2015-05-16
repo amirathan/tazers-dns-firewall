@@ -1,0 +1,1 @@
+Enable IT security teams to easily control Internet DNS resolution (i.e., blacklist and whitelist) on their architectures' upstream DNS servers from an "out-of-band" DNS server / honeypot.  In cases where DNS providers domains are blocked (such as dynamic DNS providers), the whitelist feature enables proper resolution for hosts that use blacklisted domains for DNS resolution.
